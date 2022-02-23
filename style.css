@@ -1,0 +1,197 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Heebo&family=Libre+Baskerville:wght@700&family=Lora:ital@1&family=Merriweather:wght@400;700&family=Montagu+Slab:wght@600&family=Montserrat:wght@200&family=Noto+Serif&family=Open+Sans:wght@500&family=Source+Serif+4:ital,wght@0,300;1,400&family=Work+Sans&display=swap');
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+
+}  
+
+.container{
+    margin: 30px 10%;
+    background-color: brown;
+    padding: 20px;
+    border-radius: 20px;
+    height: 600px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: row;
+    align-items: center;
+} 
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 8px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 44px;
+    padding: 10px;
+    font-weight: bolder;
+}  */
+
+
+
+ .fi-container {
+     margin: 30px 10%;
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     align-items: center;
+ }
+
+ .title {
+     font-size: 42px;
+ }
+
+ .img-res {
+     width: 100%;
+ }
+
+ .w-50 {
+     width: 480px;
+ }
+
+ .btn {
+     padding: 9px 24px;
+     border: 1px solid dodgerblue;
+     border-radius: 4px;
+     color: dodgerblue;
+     text-decoration: none;
+ }
+
+
+
+
+
+
+
+ .card-container {
+     text-align: center;
+     width: 80%;
+     margin-top: 80px;
+     margin-bottom: 80px;
+ }
+
+ .small-card {
+     border-top: 5px solid dodgerblue;
+     width: 200px;
+     box-shadow: 0 0 10px gray;
+     border-radius: 12px;
+     font-family: sans-serif;
+     text-align: center;
+     padding: 1rem;
+     margin: 12px;
+ }
+
+ .three-cards {
+     margin-top: 50px;
+     margin-bottom: 50px;
+     justify-content: center;
+     display: flex;
+     flex-wrap: wrap;
+     align-content: center;
+     flex-direction: row;
+     align-items: center;
+ }
+
+
+
+
+
+
+ .card-fi-container {
+     width: 400px;
+     box-shadow: 0 0 10px gray;
+     border-radius: 12px;
+     font-family: sans-serif;
+     text-align: center;
+     padding: 1rem;
+     margin: 12px;
+     flex-wrap: wrap;
+ }
+
+ .small {
+     color: gray;
+ }
+
+ .card-title {
+     margin-top: 0;
+ }
+
+ .my-20 {
+     margin: 25px;
+ }
+
+ .cards {
+     justify-content: center;
+ }
+
+
+
+
+ .cta-card {
+     border: 1px solid lightgrey;
+     text-align: center;
+     padding: 20px 0;
+     border-radius: 12px;
+     width: 70%;
+     margin-left: 150px;
+     margin-top: 60px;
+     margin-bottom: 60px;
+ }
+
+ .link-1 {
+     padding: 10px 25px;
+     color: white;
+     border-radius: 5px;
+     background-color: dodgerblue;
+     text-decoration: none;
+     font-family: sans-serif;
+ }
+
+ .card-title {
+     font-family: sans-serif;
+ }
+
+
+ .card-desc {
+     font-family: sans-serif;
+ }
+
+ .link-2 {
+     color: dodgerblue;
+     text-decoration: none;
+     font-family: sans-serif;
+ }
+
+ .bt-gray {
+     border-top: 1px solid lightgray;
+     margin-bottom: 60px;
+     margin-top: 60px;
+ }
+
+ .input {
+     padding: 10px;
+ }
+
+ .link-3 {
+     border-radius: 50%;
+     color: white;
+     font-weight: bolder;
+     padding: 10px;
+     background-color: dodgerblue;
+     text-decoration: none;
+ }
+
+ .footer-img {
+     justify-content: baseline;
+     width: 100%;
+     height: 20%;
+ }
